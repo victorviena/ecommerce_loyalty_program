@@ -1,0 +1,48 @@
+Qual o negócio?
+
+Um e-commerce no Reino Unido que vende produtos de outlet pela internet
+
+
+O que a empresa quer?
+
+Aumentar o faturamento
+
+
+Como a empresa pretende aumentar o faturamento?
+
+Fazendo seus melhores clientes comprarem mais e por mais tempo
+
+Ou seja, aumentando o LTV dos seus melhores clientes
+
+
+Como ela pretende aumentar o LTV dos seus melhores clientes?
+
+Criando um programa de fidelidade
+
+Ou seja, oferecendo benefícios exclusivos para seus melhores clientes para fazê-los comprar mais e por mais tempo
+
+
+Como eu posso ajudar a empresa a alcançar seu objetivo através da ciência de dados?
+
+Utilizando ALGORITMOS DE CLUSTERIZAÇÃO para agrupar clientes de acordo com a sua similidade
+
+Em seguida, identificando o grupo de clientes mais valioso para a empresa e descrevendo suas características comuns
+
+Essas características servirão como critério de entrada para o programa de fidelidade de clientes da empresa
+
+Ou seja, clientes que possuam tais características serão considerados como valiosos e, portanto, lhes serão oferecidos vantagens e benefícios exclusivos
+
+
+Qual o caminho para ajudar a empresa a aumentar seu faturamento através da criação de um programa de fidelidade?
+
+Analisar a base de dados da empresa
+
+Definir quais características são relevantes para fazer o agrupamento de clientes
+
+Agrupar os clientes utilizando algoritmos de clusterização
+
+Identificar o grupo de clientes mais valioso para o negócio
+
+Descrever as principais características do grupo de clientes mais valioso para o negócio
+
+Passar essa informação para a empresa criar o conjunto de regras do seu programa de fidelidade

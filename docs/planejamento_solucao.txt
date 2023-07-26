@@ -1,0 +1,41 @@
+Escopo:
+
+1) Análise do problema e da solução OK
+
+2) Planejamento da solução OK
+
+3) Parametrização de ambiente virtual OK
+
+4) Configuração do repositório local e remoto OK
+
+5) Coleta dos dados  OK
+
+6) Descrição dos dados OK
+*Dimensões, tipos, NAs e estatísticas
+
+7) Tratamento dos dados OK
+*Renomeação de colunas, alteração dos tipos de dados, preencher NAs
+
+8) Mapa mental de hipóteses 
+*Quais variáveis ajudam a explicar o fenômeno que eu estou procurando prever?
+
+9) Engenharia de features OK
+*Derivação e criação de features
+
+10) Análise exploratória de dados (EDA) OK
+
+11) Preparação dos dados OK
+*Enconding, normalização, reescala e transformação de natureza
+*Tratamento de outliers?
+
+12) Seleção de features OK
+
+13) Implementação dos modelos OK
+
+14) Seleção e otimização dos hiperparâmetros OK
+
+15) Implantação do modelo em produção
+
+16) Métricas do modelo e tradução para negócio
+
+17) Apresentação para o time de negócios
